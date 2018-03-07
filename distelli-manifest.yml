@@ -1,4 +1,4 @@
-gandrews/mulan_app:
+milld301/Mnemosyne:
 
   Env:
     - NR_INSTALL_SILENT: "TRUE"
